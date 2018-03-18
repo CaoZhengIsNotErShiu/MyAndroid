@@ -1,0 +1,6 @@
+1.ls 可以显示有那些东西
+2.git status 查看提交状态，因为我们还没有提交，所以会显示（红色为没有提交）
+3.git add #.格式 添加到分支
+4.git commit -m "#" 将分支内容提交到本地库
+5.git remote add origin https://github.com/CaoZhengIsNotErShiu/MyAndroid.git 建立连接圈，
+6.git push -u origin master 将项目提交到GitHub库
